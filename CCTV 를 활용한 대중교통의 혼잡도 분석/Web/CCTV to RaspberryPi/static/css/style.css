@@ -1,0 +1,43 @@
+/* 각 호선별로 */
+#testImg1{
+  position : relative;
+  width: 2500px;
+  height: 700px;
+}
+
+#testImg2{
+  position : relative;
+  width: 3500px;
+  height: 800px;
+}
+
+#testImg3{
+  position : relative;
+  width: 2500px;
+  height: 00px;
+}
+
+#testImg4{
+  position : relative;
+  width: 2000px;
+  height: 700px;
+}
+
+/* 버튼 css */
+/* 원형 버튼 */
+
+button.btn1 {
+  position: absolute;
+  height: 45px;
+  width: 45px;
+  border-radius: 100px;
+  opacity: 0; /* 0주면 투명임 */
+}
+
+/* 테스트용 버튼 */
+button.btn2 {
+  position: absolute;
+  top: 464px;
+  left : 108px;
+}
+
